@@ -3,4 +3,10 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="slot1">#62CA91</color>
+    <color name="slot2">#62CA91</color>
+    <color name="slot3">#62CA91</color>
+    <color name="btn_edit">#E6BE29</color>
+    <color name="btn_del">#FA2F20</color>
+    <color name="orange">#F75A2F</color>
 </resources>
